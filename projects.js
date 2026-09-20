@@ -11,11 +11,11 @@ window.PROJECTS = [
   },
   {
     kind: "Web app",
-    title: "Likely Causes",
+    title: "Symptom Guide",
     description:
-      "Add symptoms, how long they have lasted, whether they happened before, and a 1–10 scale. NIH MedlinePlus is used to list the three most likely official topics.",
-    url: "https://likely-causes.onrender.com",
-    button: "Open Likely Causes",
+      "Describe what you feel, how long it has lasted, whether it happened before, and a 1–10 scale. The guide checks official MedlinePlus pages and lists three likely causes with medical names, everyday names, and next steps. Not a diagnosis.",
+    url: "https://symptom-guide.onrender.com",
+    button: "Open Symptom Guide",
   },
   // {
   //   kind: "Web app",
