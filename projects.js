@@ -9,6 +9,14 @@ window.PROJECTS = [
     url: "https://osce-simulator-web.onrender.com",
     button: "Open the OSCE simulator",
   },
+  {
+    kind: "Web app",
+    title: "Likely Causes",
+    description:
+      "Add symptoms, how long they have lasted, whether they happened before, and a 1–10 scale. NIH MedlinePlus is used to list the three most likely official topics.",
+    url: "https://likely-causes.onrender.com",
+    button: "Open Likely Causes",
+  },
   // {
   //   kind: "Web app",
   //   title: "New project name",
