@@ -10,4 +10,4 @@ A small homepage of my work. The OSCE Station Simulator lives in its own repo an
 2. On Render, add a **Static Site** (or use the Blueprint with `render.yaml`).
 3. Publish directory: `.`
 
-This site does not contain the OSCE program.
+To add a project, edit `projects.js`, copy one of the objects, fill in the title, description, and URL, then push to GitHub.
